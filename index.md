@@ -141,15 +141,12 @@ collaborative_notes: https://pad.carpentries.org/2018-11-09-rutgers_camden      
 </p>
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>Accessible restrooms are available in the campus library building nearby.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
+  organizers in advance.  
 </p>
 
 {% comment %}
