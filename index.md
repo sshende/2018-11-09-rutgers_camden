@@ -144,8 +144,7 @@ collaborative_notes: https://pad.carpentries.org/2018-11-09-rutgers_camden      
   <li>Accessible restrooms are available in the campus library building nearby.</li>
 </ul>
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
+  Large-print handouts are available if needed by notifying the
   organizers in advance.  
 </p>
 
