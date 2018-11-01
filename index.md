@@ -154,7 +154,7 @@ collaborative_notes: https://pad.carpentries.org/2018-11-09-rutgers_camden      
   Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
-  <strong>Contact</strong>:
+  <strong>Contact/Registration</strong>:
   Please email
   {% if page.email %}
     {% for email in page.email %}
@@ -170,7 +170,7 @@ collaborative_notes: https://pad.carpentries.org/2018-11-09-rutgers_camden      
   {% else %}
     to-be-announced
   {% endif %}
-  for more information.
+	to register for the workshop, or if you need more information.
 </p>
 
 <hr/>
